@@ -4,5 +4,5 @@ __*Projeto olá mundo editado*__
 ***
 
 ## Como eu vejo o projeto.
-[Meu GitHub](https://github.com/alanqg/OnePage) 
+[Acesse aqui](https://github.com/alanqg/OnePage) 
 
